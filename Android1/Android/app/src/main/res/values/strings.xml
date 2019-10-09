@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UserProfileApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_profile_lname_label">LastName</string>
+    <string name="Email">Email</string>
+    <string name="EnterEmailText">Enter Your Email</string>
+    <string name="Password">Password</string>
+    <string name="EnterPasswordText">Enter Password</string>
+    <string name="SignUpButtonText">SignUp</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="EnterConfirmPassword">Enter Confirm Password</string>
+    <string name="FirstName">First Name</string>
+    <string name="EnterFirstName">Enter First Name</string>
+    <string name="EnterLastName">Enter Last Name</string>
+    <string name="SignupMessage">Don\'t have an Account? SignUp</string>
+    <string name="Login">Login</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="edit_profile_fname_label">First Name</string>
+    <string name="Age">Age</string>
+    <string name="Weight">Weight</string>
+    <string name="Edit">Edit</string>
+    <string name="Address">Address</string>
+    <string name="EnterAge">Enter Your Age</string>
+    <string name="EnterWeight">Enter your Weight</string>
+    <string name="SaveButton">Save</string>
+    <string name="EnterAddress">Enter Your Address</string>
+    <string name="checkout_text">CHECKOUT</string>
+    <string name="payButton">Checkout</string>
+    <string name="addButton">Add</string>
+    <string name="ipAddress">192.168.48.2</string>
+    <string name="publishablekey">pk_test_AEPKMLpRnhu4YgHxjFZcUFuV00XR9yGrDO</string>
+    <string name="pay_button_text">Pay</string>
+</resources>
